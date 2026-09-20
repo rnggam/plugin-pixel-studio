@@ -1,0 +1,12 @@
+{
+  "name": "pixel-studio-basic",
+  "colors": {
+    "outline": "#202338",
+    "shadow": "#51406E",
+    "mid": "#8B5E83",
+    "base": "#E58B5B",
+    "highlight": "#F7C16B",
+    "accent": "#79C7B1",
+    "transparent": "#00000000"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "pixel-studio-helper",
+  "version": "0.1.0",
+  "description": "Plan, generate, validate, and prepare pixel-art assets for import into Pixel Studio.",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Pixel Studio Helper",
+    "shortDescription": "Prepare pixel-art assets for Pixel Studio.",
+    "longDescription": "Pixel Studio Helper turns an asset brief into a clear pixel-art specification, a constrained palette, and an export-ready raster workflow. It can validate dimensions, transparency, and color count, but it does not claim to control the native Pixel Studio window.",
+    "developerName": "Local developer",
+    "category": "Design",
+    "capabilities": [],
+    "defaultPrompt": "Prepare this pixel-art asset for Pixel Studio: describe the sprite, canvas size, palette, transparency, and export requirements."
+  }
+}
